@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 #include<vector>
 using namespace std;
+#define endl '\n'
+#define optimization() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 int main()
 {
     vector<int>vec[5];
